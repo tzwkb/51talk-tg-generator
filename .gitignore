@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project I/O (PDFs and generated files)
+tg_input/
+tg_output/
+
+# Reports
+run_report_*.jsonl
