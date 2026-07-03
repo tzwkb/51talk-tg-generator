@@ -1,6 +1,6 @@
 # tg-generator
 
-[中文](README_ZH.md) | English
+English | [中文](README_ZH.md)
 
 
 Auto-generate annotated ESL Teacher Guides (TG) from 51talk student-slide PDFs using an LLM API.
