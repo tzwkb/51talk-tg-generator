@@ -1,7 +1,9 @@
 # tg-generator
 
-[English](README.md) | 中文
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 
+[English](README.md) | 中文
 
 ## 概览
 
